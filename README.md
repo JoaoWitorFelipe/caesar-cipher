@@ -1,2 +1,2 @@
 # caesar-cipher
-implementation of Caesar's Cipher
+Implementation of Caesar's Cipher
